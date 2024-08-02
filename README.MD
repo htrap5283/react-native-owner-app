@@ -83,20 +83,22 @@ Run on Web:
 
 To run your app on the web, simply press w in the terminal after starting the Expo development server. This will open your app in a web browser.
 
-📁 Project Structure
+## 📁 Project Structure
+
 Here's a brief overview of the project's file structure:
 
+```plaintext
 react-native-owner-app
-├── assets # Static assets like images and fonts
-├── components # Reusable components
-├── config # Configuration files (e.g., Firebase)
-├── screens # Application screens
-│ ├── SignInScreen.js
-│ ├── CreateListingScreen.js
-│ └── Bookings.js
-├── App.js # Entry point of the application
-├── package.json # Project metadata and dependencies
-└── README.md # Project documentation
+├── assets                    # Static assets like images and fonts
+├── components                # Reusable components
+├── config                    # Configuration files (e.g., Firebase)
+├── screens                   # Application screens
+│   ├── SignInScreen.js
+│   ├── CreateListingScreen.js
+│   └── Bookings.js
+├── App.js                    # Entry point of the application
+├── package.json              # Project metadata and dependencies
+└── README.md                 # Project documentation
 
 📦 Dependencies
 The project uses the following major dependencies:
