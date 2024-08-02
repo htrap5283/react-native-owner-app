@@ -99,6 +99,7 @@ react-native-owner-app
 ├── App.js                    # Entry point of the application
 ├── package.json              # Project metadata and dependencies
 └── README.md                 # Project documentation
+```
 
 📦 Dependencies
 The project uses the following major dependencies:
